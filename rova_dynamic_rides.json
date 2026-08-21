@@ -1,0 +1,2002 @@
+[
+    {
+        "id": "mh_tamhini_ghat_01",
+        "title": "Tamhini Ghat",
+        "location": "Pune - Mulshi",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Lush green valley drops, dense mist, and dramatic monsoon waterfalls through the Sahyadris.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.5204,
+                73.8567
+            ],
+            [
+                18.4512,
+                73.5123
+            ]
+        ]
+    },
+    {
+        "id": "mh_lavasa_circuit_02",
+        "title": "Lavasa Ghat",
+        "location": "Pune",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Smooth, technical hairpins hugging the backwaters of Warasgaon Lake.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.5074,
+                73.8077
+            ],
+            [
+                18.4042,
+                73.5002
+            ]
+        ]
+    },
+    {
+        "id": "mh_malshej_ghat_03",
+        "title": "Malshej Ghat",
+        "location": "Kalyan - Ahmednagar",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Climbing past rock-cut cliff tunnels surrounded by roaring seasonal waterfalls.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                19.2437,
+                73.1355
+            ],
+            [
+                19.34,
+                73.78
+            ]
+        ]
+    },
+    {
+        "id": "mh_varandha_ghat_04",
+        "title": "Varandha Ghat",
+        "location": "Bhor to Mahad",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Raw, rugged tarmac carving through untouched Sahyadri ridges.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.1458,
+                73.8438
+            ],
+            [
+                18.0833,
+                73.4167
+            ]
+        ]
+    },
+    {
+        "id": "mh_amboli_ghat_05",
+        "title": "Amboli Ghat",
+        "location": "Kolhapur to Sawantwadi",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "The wettest hill station in MH, featuring tight forest turns.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                16.1833,
+                74.3167
+            ],
+            [
+                15.9,
+                73.8167
+            ]
+        ]
+    },
+    {
+        "id": "mh_kasara_ghat_06",
+        "title": "Kasara Ghat",
+        "location": "Igatpuri",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "High-speed multi-lane curves ascending the Sahyadri escarpment.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                19.65,
+                73.48
+            ],
+            [
+                19.6967,
+                73.5594
+            ]
+        ]
+    },
+    {
+        "id": "mh_mahabaleshwar_wai_07",
+        "title": "Pasarni Ghat",
+        "location": "Wai - Panchgani",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Scenic climb up Pasarni Ghat reaching strawberry fields.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                17.9478,
+                73.8894
+            ],
+            [
+                17.9237,
+                73.6586
+            ]
+        ]
+    },
+    {
+        "id": "mh_panshet_dam_08",
+        "title": "Panshet Dam",
+        "location": "Khadakwasla - Panshet",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Quiet single-lane tarmac along twin reservoir shorelines.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.4412,
+                73.7629
+            ],
+            [
+                18.3683,
+                73.6122
+            ]
+        ]
+    },
+    {
+        "id": "mh_bhandardara_loop_09",
+        "title": "Bhandardara Lake",
+        "location": "Akole",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Roads tracing the base of Maharashtra's highest peak.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                19.5372,
+                73.7647
+            ],
+            [
+                19.5786,
+                73.7389
+            ]
+        ]
+    },
+    {
+        "id": "mh_kaas_plateau_10",
+        "title": "Kaas Plateau",
+        "location": "Satara",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "UNESCO heritage high-altitude laterite plateau with rolling meadows.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                17.6805,
+                74.0183
+            ],
+            [
+                17.72,
+                73.82
+            ]
+        ]
+    },
+    {
+        "id": "mh_chorla_ghat_11",
+        "title": "Chorla Ghat",
+        "location": "Belagavi Border",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Dense semi-evergreen jungle canopy connecting MH, KA, and Goa.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                15.8497,
+                74.4977
+            ],
+            [
+                15.65,
+                74.12
+            ]
+        ]
+    },
+    {
+        "id": "mh_anuskura_ghat_12",
+        "title": "Anuskura Ghat",
+        "location": "Patan to Rajapur",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Flawless modern tarmac through dramatic cliff-edges.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                16.89,
+                73.85
+            ],
+            [
+                16.65,
+                73.52
+            ]
+        ]
+    },
+    {
+        "id": "mh_bhor_ghat_13",
+        "title": "Khandala Old Highway",
+        "location": "Khopoli to Lonavala",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Historic steep climb past Duke's Nose and Tiger's Leap.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.7884,
+                73.3444
+            ],
+            [
+                18.7557,
+                73.4091
+            ]
+        ]
+    },
+    {
+        "id": "mh_pawna_loop_14",
+        "title": "Pawna Lake",
+        "location": "Kamshet",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Lake-encircling curves shadowed by dramatic hill forts.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.7619,
+                73.5606
+            ],
+            [
+                18.6653,
+                73.4831
+            ]
+        ]
+    },
+    {
+        "id": "mh_konkan_sagari_15",
+        "title": "Sagari Mahamarg",
+        "location": "Alibaug",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Pristine Arabian Sea coastal road passing coconut groves.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.6414,
+                72.8722
+            ],
+            [
+                18.3,
+                72.9667
+            ]
+        ]
+    },
+    {
+        "id": "mh_sinhagad_climb_16",
+        "title": "Sinhagad Fort",
+        "location": "Pune",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Tight, steep, and heavily cornered climb up to the historic fort gates.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.3663,
+                73.7559
+            ],
+            [
+                18.3621,
+                73.7551
+            ]
+        ]
+    },
+    {
+        "id": "mh_dive_ghat_17",
+        "title": "Dive Ghat",
+        "location": "Pune to Saswad",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Fast sweeping wide curves transitioning from Pune into the open plateau.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.4419,
+                73.9535
+            ],
+            [
+                18.3392,
+                74.027
+            ]
+        ]
+    },
+    {
+        "id": "mh_madhe_ghat_18",
+        "title": "Madhe Ghat",
+        "location": "Velhe",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Deep countryside ride leading to a sheer 800-meter drop into the valley.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.2917,
+                73.6333
+            ],
+            [
+                18.2612,
+                73.5936
+            ]
+        ]
+    },
+    {
+        "id": "mh_bopdev_ghat_19",
+        "title": "Bopdev Ghat",
+        "location": "Pune",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Short but intensely winding ghat section connecting Kondhwa.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.4093,
+                73.8966
+            ],
+            [
+                18.375,
+                73.89
+            ]
+        ]
+    },
+    {
+        "id": "mh_kumbharli_ghat_20",
+        "title": "Kumbharli Ghat",
+        "location": "Patan to Chiplun",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Major passage descending rapidly to the coastal plains of Chiplun.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                17.3733,
+                73.896
+            ],
+            [
+                17.535,
+                73.5133
+            ]
+        ]
+    },
+    {
+        "id": "mh_kashedi_ghat_21",
+        "title": "Kashedi Highway",
+        "location": "Poladpur to Khed",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "A notorious and thrilling multi-hairpin descent on the Mumbai-Goa highway.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                17.967,
+                73.5533
+            ],
+            [
+                17.72,
+                73.3933
+            ]
+        ]
+    },
+    {
+        "id": "mh_amba_ghat_22",
+        "title": "Amba Ghat",
+        "location": "Kolhapur to Ratnagiri",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Pristine forest reserve roads perfect for motorcycling.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                16.92,
+                73.91
+            ],
+            [
+                16.85,
+                73.72
+            ]
+        ]
+    },
+    {
+        "id": "mh_gaganbawda_23",
+        "title": "Karul Ghat",
+        "location": "Gaganbawda",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Narrow, thrilling cliffside switchbacks offering endless views.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                16.5413,
+                73.8213
+            ],
+            [
+                16.505,
+                73.682
+            ]
+        ]
+    },
+    {
+        "id": "mh_phonda_ghat_24",
+        "title": "Phonda Ghat",
+        "location": "Radhanagari",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Cutting through the Bison sanctuary with smooth curves.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                16.4069,
+                73.9897
+            ],
+            [
+                16.3533,
+                73.738
+            ]
+        ]
+    },
+    {
+        "id": "mh_aare_ware_25",
+        "title": "Aare Ware",
+        "location": "Ganpatipule",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Tarmac carved directly into sheer sea cliffs along the ocean.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                17.14,
+                73.268
+            ],
+            [
+                17.0,
+                73.28
+            ]
+        ]
+    },
+    {
+        "id": "mh_harihareshwar_coast_26",
+        "title": "Shrivardhan Coast",
+        "location": "Harihareshwar",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Magical coastal road hugging untouched black sand beaches.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.04,
+                73.02
+            ],
+            [
+                17.95,
+                73.02
+            ]
+        ]
+    },
+    {
+        "id": "mh_chikhaldara_27",
+        "title": "Chikhaldara",
+        "location": "Paratwada",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Vidarbha's only hill station featuring foggy forested hairpins.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                21.29,
+                77.53
+            ],
+            [
+                21.4,
+                77.32
+            ]
+        ]
+    },
+    {
+        "id": "mh_tapola_kashmir_28",
+        "title": "Tapola Backwaters",
+        "location": "Mahabaleshwar",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "A secluded, winding descent to the massive Shivsagar lake network.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                17.9237,
+                73.6586
+            ],
+            [
+                17.78,
+                73.73
+            ]
+        ]
+    },
+    {
+        "id": "mh_rajmachi_trail_29",
+        "title": "Rajmachi Trail",
+        "location": "Lonavala",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "A rugged dirt trail deep into the forest leading to the twin forts.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.7557,
+                73.4091
+            ],
+            [
+                18.8291,
+                73.3941
+            ]
+        ]
+    },
+    {
+        "id": "mh_vaitarna_dam_30",
+        "title": "Vaitarna Lake",
+        "location": "Igatpuri",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Lonely sweeping roads tracing the massive fresh water reservoirs.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                19.6967,
+                73.5594
+            ],
+            [
+                19.66,
+                73.3
+            ]
+        ]
+    },
+    {
+        "id": "mh_jawhar_hills_31",
+        "title": "Jawhar Tribal Belt",
+        "location": "Vikramgad",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Exploring the untouched northern Sahyadri tribal belt.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                19.79,
+                73.11
+            ],
+            [
+                19.9,
+                73.23
+            ]
+        ]
+    },
+    {
+        "id": "mh_torna_base_32",
+        "title": "Torna Base",
+        "location": "Nasrapur",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Classic rural riding with paddy fields leading to Torna fort.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                18.28,
+                73.89
+            ],
+            [
+                18.2917,
+                73.6333
+            ]
+        ]
+    },
+    {
+        "id": "mh_mhaismal_33",
+        "title": "Mhaismal Hill Climb",
+        "location": "Aurangabad",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Marathwada's lone hill station featuring sweeping curves.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                19.8762,
+                75.3433
+            ],
+            [
+                20.08,
+                75.18
+            ]
+        ]
+    },
+    {
+        "id": "mh_lonar_crater_34",
+        "title": "Lonar Crater",
+        "location": "Mehkar",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Straightaways terminating at the rim of Earth's only hyper-velocity impact crater.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                20.15,
+                76.57
+            ],
+            [
+                19.98,
+                76.52
+            ]
+        ]
+    },
+    {
+        "id": "mh_ghatghar_dam_35",
+        "title": "Ghatghar Cliff Edge",
+        "location": "Bhandardara",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Riding the extreme western edge of the Sahyadri plateau.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                19.5372,
+                73.7647
+            ],
+            [
+                19.53,
+                73.65
+            ]
+        ]
+    },
+    {
+        "id": "ka_nandi_hills_36",
+        "title": "Nandi Hills",
+        "location": "Chikkaballapur, KA",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Iconic weekend climb featuring 40 crisp cornering apexes.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                13.0827,
+                77.5877
+            ],
+            [
+                13.3702,
+                77.6836
+            ]
+        ]
+    },
+    {
+        "id": "ka_agumbe_ghat_37",
+        "title": "Agumbe Rainforest",
+        "location": "Thirthahalli, KA",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Tight hairpins descending through dense rainforest canopy.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                13.5042,
+                75.0931
+            ],
+            [
+                13.48,
+                74.98
+            ]
+        ]
+    },
+    {
+        "id": "ka_mullayanagiri_38",
+        "title": "Mullayanagiri Peak",
+        "location": "Chikkamagaluru, KA",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Climb through rich Arabica coffee plantations.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                13.3161,
+                75.772
+            ],
+            [
+                13.3917,
+                75.7214
+            ]
+        ]
+    },
+    {
+        "id": "ka_kudremukh_pass_39",
+        "title": "Kudremukh Park",
+        "location": "Kalasa, KA",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Rolling shola grasslands and evergreen forest corridors.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                13.2381,
+                75.3686
+            ],
+            [
+                13.1256,
+                75.2533
+            ]
+        ]
+    },
+    {
+        "id": "ka_bisle_ghat_40",
+        "title": "Bisle Ghat",
+        "location": "Sakleshpur, KA",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Untouched Western Ghats stretch ending at a beauty spot.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                12.9442,
+                75.785
+            ],
+            [
+                12.6789,
+                75.6178
+            ]
+        ]
+    },
+    {
+        "id": "ka_coorg_madikeri_41",
+        "title": "Coorg Estates",
+        "location": "Madikeri, KA",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Aromatic pepper and coffee estates flanked by tall trees.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                12.4244,
+                75.7382
+            ],
+            [
+                12.4556,
+                75.9611
+            ]
+        ]
+    },
+    {
+        "id": "ka_charmadi_ghat_42",
+        "title": "Charmadi Ghat",
+        "location": "Mudigere, KA",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Dramatic cliff drops and cascading falls.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                13.1367,
+                75.6425
+            ],
+            [
+                13.045,
+                75.3347
+            ]
+        ]
+    },
+    {
+        "id": "ka_dandeli_kali_43",
+        "title": "Dandeli Reserve",
+        "location": "Alnavar, KA",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Deep teak forest roads tracking alongside the Kali river.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                15.4333,
+                75.0
+            ],
+            [
+                15.2361,
+                74.6186
+            ]
+        ]
+    },
+    {
+        "id": "goa_nh66_karwar_44",
+        "title": "Karwar Gateway",
+        "location": "Karwar, Goa",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Estuary bridges where the Western Ghats tumble into the Arabian Sea.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                14.8167,
+                74.1333
+            ],
+            [
+                15.0167,
+                74.05
+            ]
+        ]
+    },
+    {
+        "id": "ka_hampi_heritage_45",
+        "title": "Hampi Boulder Route",
+        "location": "Hospet, KA",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Surreal riding landscape through prehistoric granite boulders.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                15.2689,
+                76.3909
+            ],
+            [
+                15.335,
+                76.46
+            ]
+        ]
+    },
+    {
+        "id": "ka_maravanthe_beach_46",
+        "title": "Maravanthe Highway",
+        "location": "Kundapura, KA",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Highway flanked by the Arabian Sea on one side and a river on the other.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                13.62,
+                74.69
+            ],
+            [
+                13.87,
+                74.62
+            ]
+        ]
+    },
+    {
+        "id": "ka_gokarna_coast_47",
+        "title": "Gokarna Coast",
+        "location": "Kumta, KA",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Idyllic coastal roads passing pristine beaches.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                14.54,
+                74.31
+            ],
+            [
+                14.09,
+                74.48
+            ]
+        ]
+    },
+    {
+        "id": "tn_kolli_hills_48",
+        "title": "Kolli Hills 70 Hairpins",
+        "location": "Namakkal, TN",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "The ultimate cornering test in India with 70 continuous hairpin bends.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                11.2333,
+                78.1667
+            ],
+            [
+                11.2486,
+                78.3389
+            ]
+        ]
+    },
+    {
+        "id": "tn_valparai_49",
+        "title": "Valparai 40 Hairpins",
+        "location": "Pollachi, TN",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Climbing through Anamalai Tiger Reserve overlooking tea estates.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                10.66,
+                77.01
+            ],
+            [
+                10.32,
+                76.95
+            ]
+        ]
+    },
+    {
+        "id": "tn_ooty_kalhatty_50",
+        "title": "Kalhatty 36 Hairpins",
+        "location": "Ooty, TN",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "One of India's steepest climbs, cutting through Mudumalai.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                11.5714,
+                76.6433
+            ],
+            [
+                11.4102,
+                76.695
+            ]
+        ]
+    },
+    {
+        "id": "kl_munnar_gap_road_51",
+        "title": "Munnar Gap Road",
+        "location": "Munnar, KL",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "World-class mountain cliff engineering with panoramic views.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                10.0889,
+                77.0595
+            ],
+            [
+                10.0167,
+                77.25
+            ]
+        ]
+    },
+    {
+        "id": "kl_wayanad_churam_52",
+        "title": "Wayanad Churam",
+        "location": "Lakkidi, KL",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Gateway to Wayanad featuring 9 wide hairpins.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                11.4833,
+                75.9333
+            ],
+            [
+                11.5167,
+                76.0333
+            ]
+        ]
+    },
+    {
+        "id": "tn_kodaikanal_ghat_53",
+        "title": "Kodaikanal Pine Ascent",
+        "location": "Batlagundu, TN",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Smooth, wide curves climbing the Palani Hills.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                10.16,
+                77.76
+            ],
+            [
+                10.2381,
+                77.4892
+            ]
+        ]
+    },
+    {
+        "id": "tn_pamban_bridge_54",
+        "title": "Pamban Sea Bridge",
+        "location": "Rameshwaram, TN",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Riding suspended over the turquoise waters of the Indian Ocean.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                9.2783,
+                79.1247
+            ],
+            [
+                9.2876,
+                79.3129
+            ]
+        ]
+    },
+    {
+        "id": "tn_dhanushkodi_end_55",
+        "title": "Dhanushkodi Strip",
+        "location": "Rameshwaram, TN",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Straight ribbon of tarmac flanked on both sides by roaring waves.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                9.2876,
+                79.3129
+            ],
+            [
+                9.155,
+                79.445
+            ]
+        ]
+    },
+    {
+        "id": "kl_vagamon_meadows_56",
+        "title": "Vagamon Meadows",
+        "location": "Erattupetta, KL",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Cool mountain breezes and winding paths.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                9.68,
+                76.78
+            ],
+            [
+                9.6833,
+                76.9
+            ]
+        ]
+    },
+    {
+        "id": "kl_athirappilly_valparai_57",
+        "title": "Sholayar Safari",
+        "location": "Athirappilly, KL",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "A deep jungle transit road past cascading waterfalls.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                10.2851,
+                76.5698
+            ],
+            [
+                10.32,
+                76.95
+            ]
+        ]
+    },
+    {
+        "id": "tn_yelagiri_14_58",
+        "title": "Yelagiri Hills",
+        "location": "Ponneri, TN",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Clean, smooth tarmac climbing 14 numbered hairpins.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                12.58,
+                78.61
+            ],
+            [
+                12.5786,
+                78.6389
+            ]
+        ]
+    },
+    {
+        "id": "kl_kumily_thekkady_59",
+        "title": "Periyar Foothills",
+        "location": "Kottayam, KL",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Winding climb transitioning to the sanctuary gates.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                9.5916,
+                76.5222
+            ],
+            [
+                9.6031,
+                77.1664
+            ]
+        ]
+    },
+    {
+        "id": "tn_ecr_pondicherry_60",
+        "title": "East Coast Road (ECR)",
+        "location": "Chennai, TN",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Smooth highway hugging the Bay of Bengal coastline.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                12.98,
+                80.25
+            ],
+            [
+                11.9416,
+                79.8083
+            ]
+        ]
+    },
+    {
+        "id": "kl_idukki_dam_61",
+        "title": "Idukki Arch Dam",
+        "location": "Kulamavu, KL",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Twisting roads bordering the massive backwaters.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                9.79,
+                76.88
+            ],
+            [
+                9.84,
+                76.97
+            ]
+        ]
+    },
+    {
+        "id": "kl_ponmudi_ghat_62",
+        "title": "Ponmudi Ghat",
+        "location": "Trivandrum, KL",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Lush tropical green canopy drive featuring 22 rapid-fire hairpins.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                8.52,
+                76.93
+            ],
+            [
+                8.75,
+                77.11
+            ]
+        ]
+    },
+    {
+        "id": "hp_atal_tunnel_leh_63",
+        "title": "Atal Tunnel",
+        "location": "Manali to Jispa, HP",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Crossing through the 9km high-altitude engineering marvel.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                32.2432,
+                77.1892
+            ],
+            [
+                32.6375,
+                77.1889
+            ]
+        ]
+    },
+    {
+        "id": "hp_baralacha_pass_64",
+        "title": "Baralacha La Pass",
+        "location": "Jispa to Sarchu, HP",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "High-altitude mountain pass at 16,040 ft flanked by glacial lakes.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                32.6375,
+                77.1889
+            ],
+            [
+                32.9056,
+                77.5819
+            ]
+        ]
+    },
+    {
+        "id": "la_tanglang_la_65",
+        "title": "Tanglang La",
+        "location": "Pang to Upshi, Ladakh",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Conquering the 17,480 ft pass after 40 km of flat plateau.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                33.125,
+                77.78
+            ],
+            [
+                33.82,
+                77.81
+            ]
+        ]
+    },
+    {
+        "id": "la_khardung_la_66",
+        "title": "Khardung La Pass",
+        "location": "Leh to Diskit, Ladakh",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Crossing one of the highest motorable passes in the world (17,982 ft).",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                34.1526,
+                77.5771
+            ],
+            [
+                34.5428,
+                77.5583
+            ]
+        ]
+    },
+    {
+        "id": "la_chang_la_pangong_67",
+        "title": "Chang La Pass",
+        "location": "Karu to Pangong, Ladakh",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Ascending the steep 17,688 ft Chang La to the highest saltwater lake.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                33.9167,
+                77.75
+            ],
+            [
+                33.7297,
+                78.4389
+            ]
+        ]
+    },
+    {
+        "id": "hp_spiti_kunzum_68",
+        "title": "Kunzum La & Spiti",
+        "location": "Gramphu to Kaza, HP",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Crossing glacial streams and the 14,931 ft Kunzum Pass.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                32.39,
+                77.21
+            ],
+            [
+                32.2252,
+                78.0719
+            ]
+        ]
+    },
+    {
+        "id": "hp_sach_pass_69",
+        "title": "Sach Pass Run",
+        "location": "Bairagarh to Killar, HP",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Challenging high-altitude dirt tracks climbing through sheer snow walls.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                32.96,
+                76.15
+            ],
+            [
+                33.08,
+                76.43
+            ]
+        ]
+    },
+    {
+        "id": "hp_jalori_pass_70",
+        "title": "Jalori Pass",
+        "location": "Aut to Shoja, HP",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Extremely steep gradients winding through dense cedar and oak forests.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                31.74,
+                77.21
+            ],
+            [
+                31.53,
+                77.42
+            ]
+        ]
+    },
+    {
+        "id": "hp_kinnaur_cliff_71",
+        "title": "Kinnaur Cliff-Hanger",
+        "location": "Rampur to Kalpa, HP",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Dramatic rock-cut tunnels hanging above the roaring Sutlej river.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                31.45,
+                77.63
+            ],
+            [
+                31.5386,
+                78.2561
+            ]
+        ]
+    },
+    {
+        "id": "jk_zojila_pass_72",
+        "title": "Zoji La Pass",
+        "location": "Sonamarg to Drass, J&K",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Legendary treacherous mountain pass cutting between Kashmir and Ladakh.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                34.3,
+                75.3
+            ],
+            [
+                34.43,
+                75.75
+            ]
+        ]
+    },
+    {
+        "id": "jk_mughal_road_73",
+        "title": "Mughal Road",
+        "location": "Bafliaz to Shopian, J&K",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Historic route used by emperors crossing alpine meadows.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                33.62,
+                74.34
+            ],
+            [
+                33.72,
+                74.83
+            ]
+        ]
+    },
+    {
+        "id": "jk_gurez_valley_74",
+        "title": "Razdan Pass",
+        "location": "Bandipora to Dawar, J&K",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Ascending Razdan Pass to enter the untouched Kishanganga river valley.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                34.42,
+                74.65
+            ],
+            [
+                34.69,
+                74.9
+            ]
+        ]
+    },
+    {
+        "id": "hp_dharamshala_mcleod_75",
+        "title": "Kangra Foothills",
+        "location": "Kangra to McLeod Ganj, HP",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Climbing through pine hills under the shadow of the Dhauladhar range.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                32.0998,
+                76.2691
+            ],
+            [
+                32.2426,
+                76.3213
+            ]
+        ]
+    },
+    {
+        "id": "la_hanle_astronomy_76",
+        "title": "Hanle Dark Sky Run",
+        "location": "Upshi to Hanle, Ladakh",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Vast empty river valley flats leading to an Astronomical Sanctuary.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                33.82,
+                77.81
+            ],
+            [
+                32.77,
+                78.98
+            ]
+        ]
+    },
+    {
+        "id": "uk_rishikesh_devprayag_77",
+        "title": "Ganga River Gorges",
+        "location": "Rishikesh to Devprayag, UK",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Smooth cliff-side highway following the turquoise waters of sacred confluences.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                30.0869,
+                78.2676
+            ],
+            [
+                30.1458,
+                78.5989
+            ]
+        ]
+    },
+    {
+        "id": "uk_mussoorie_dhanaulti_78",
+        "title": "Mussoorie Ridge",
+        "location": "Dehradun to Dhanaulti, UK",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Climbing past Mussoorie into high-altitude deodar forests.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                30.3165,
+                78.0322
+            ],
+            [
+                30.45,
+                78.23
+            ]
+        ]
+    },
+    {
+        "id": "uk_chopta_tungnath_79",
+        "title": "Chopta Meadows",
+        "location": "Kund to Gopeshwar, UK",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Alpine rhododendron meadows under looming mountain peaks.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                30.51,
+                79.12
+            ],
+            [
+                30.41,
+                79.33
+            ]
+        ]
+    },
+    {
+        "id": "uk_nainital_ranikhet_80",
+        "title": "Kumaon Pine Highway",
+        "location": "Nainital to Ranikhet, UK",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Gentle curves through ancient pine trees overlooking wide Himalayan panoramas.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                29.3919,
+                79.4542
+            ],
+            [
+                29.6433,
+                79.4322
+            ]
+        ]
+    },
+    {
+        "id": "uk_munsiyari_birthi_81",
+        "title": "Panchachuli Route",
+        "location": "Thal to Munsiyari, UK",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Remote route leading straight toward the five jagged peaks of Panchachuli.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                29.82,
+                80.13
+            ],
+            [
+                30.06,
+                80.23
+            ]
+        ]
+    },
+    {
+        "id": "uk_kausani_binsar_82",
+        "title": "Binsar Wildlife Ridge",
+        "location": "Almora to Kausani, UK",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Oak forest canopy roads famous for panoramic views of Nanda Devi.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                29.5972,
+                79.6591
+            ],
+            [
+                29.8542,
+                79.5967
+            ]
+        ]
+    },
+    {
+        "id": "uk_corbett_trail_83",
+        "title": "Jim Corbett Boundary",
+        "location": "Ramnagar, UK",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Dense sal forest road following the Ramganga river.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                29.3967,
+                79.1256
+            ],
+            [
+                29.61,
+                79.11
+            ]
+        ]
+    },
+    {
+        "id": "uk_mana_pass_gateway_84",
+        "title": "Mana Last Village",
+        "location": "Joshimath to Mana, UK",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Pilgrimage pass through sheer granite gorges terminating at the border.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                30.55,
+                79.56
+            ],
+            [
+                30.77,
+                79.49
+            ]
+        ]
+    },
+    {
+        "id": "ne_shillong_cherrapunji_85",
+        "title": "Sohra Cloud Highway",
+        "location": "Shillong to Cherrapunji, ML",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Riding across deep green limestone canyons and living root bridge country.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                25.5788,
+                91.8933
+            ],
+            [
+                25.2986,
+                91.7314
+            ]
+        ]
+    },
+    {
+        "id": "ne_sela_pass_tawang_86",
+        "title": "Sela Pass to Tawang",
+        "location": "Dirang to Tawang, AR",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "High-altitude pass with twin frozen lakes and sacred Buddhist gompas.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                27.35,
+                92.23
+            ],
+            [
+                27.5861,
+                91.8594
+            ]
+        ]
+    },
+    {
+        "id": "ne_zuluk_silk_route_87",
+        "title": "Old Silk Route",
+        "location": "Rongli, Sikkim",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Geometric spiral of 32 hairpins climbing above clouds with Mt. Kanchenjunga views.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                27.2,
+                88.7
+            ],
+            [
+                27.31,
+                88.82
+            ]
+        ]
+    },
+    {
+        "id": "ne_dawki_tamabil_88",
+        "title": "Dawki Border Route",
+        "location": "Shillong to Dawki, ML",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Descend to the glass-clear turquoise waters of Umngot River.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                25.5788,
+                91.8933
+            ],
+            [
+                25.1833,
+                92.0167
+            ]
+        ]
+    },
+    {
+        "id": "ne_kaziranga_corridor_89",
+        "title": "Kaziranga Corridor",
+        "location": "Jakhalabandha, AS",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Highway cutting between the Brahmaputra floodplains and Karbi Anglong hills.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                26.58,
+                92.98
+            ],
+            [
+                26.62,
+                93.59
+            ]
+        ]
+    },
+    {
+        "id": "ne_mechuka_valley_90",
+        "title": "Mechuka Valley Pass",
+        "location": "Aalo to Mechuka, AR",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Remote road crossing wooden suspension bridges into the forbidden valley.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                28.17,
+                94.8
+            ],
+            [
+                28.6,
+                94.13
+            ]
+        ]
+    },
+    {
+        "id": "ne_gangtok_gurudongmar_91",
+        "title": "North Sikkim Plateau",
+        "location": "Lachen, Sikkim",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Ascending to the sacred high-altitude alpine lake situated at 17,800 ft.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                27.72,
+                88.55
+            ],
+            [
+                28.02,
+                88.71
+            ]
+        ]
+    },
+    {
+        "id": "ne_dzukou_kohima_92",
+        "title": "Dzukou Valley",
+        "location": "Kohima, Nagaland",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Misty mountain hills passing traditional Naga tribal hamlets.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                25.67,
+                94.11
+            ],
+            [
+                25.54,
+                94.14
+            ]
+        ]
+    },
+    {
+        "id": "rj_jaisalmer_sam_93",
+        "title": "Thar Desert Highway",
+        "location": "Jaisalmer, RJ",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Long desert straights flanked by golden shifting sand dunes.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                26.9157,
+                70.9083
+            ],
+            [
+                26.83,
+                70.5
+            ]
+        ]
+    },
+    {
+        "id": "rj_udaipur_kumbhalgarh_94",
+        "title": "Aravalli Heritage",
+        "location": "Udaipur to Kumbhalgarh, RJ",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Twisting roads through ancient Aravalli ridges leading to Kumbhalgarh fort.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                24.5854,
+                73.7125
+            ],
+            [
+                25.1511,
+                73.5853
+            ]
+        ]
+    },
+    {
+        "id": "rj_mount_abu_95",
+        "title": "Mount Abu Hill Climb",
+        "location": "Abu Road, RJ",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Rajasthan's only hill station ascent, surrounded by rocky granite boulders.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                24.47,
+                72.78
+            ],
+            [
+                24.59,
+                72.71
+            ]
+        ]
+    },
+    {
+        "id": "gj_rann_kutch_96",
+        "title": "Road to Heaven",
+        "location": "Kutch, Gujarat",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Straight line of asphalt cutting right through the shimmering white salt pans.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                23.85,
+                69.73
+            ],
+            [
+                23.88,
+                70.22
+            ]
+        ]
+    },
+    {
+        "id": "gj_saputara_climb_97",
+        "title": "Saputara Forest Ghat",
+        "location": "Waghai, Gujarat",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Gujarat's premier ghat road winding through dense Dang forest reserves.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                20.76,
+                73.5
+            ],
+            [
+                20.57,
+                73.75
+            ]
+        ]
+    },
+    {
+        "id": "mp_pachmarhi_climb_98",
+        "title": "Satpura Queen Climb",
+        "location": "Matkuli, MP",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Climbing the Satpura range through dense teak and sal forests.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                22.58,
+                78.43
+            ],
+            [
+                22.4674,
+                78.4336
+            ]
+        ]
+    },
+    {
+        "id": "mp_mandu_heritage_99",
+        "title": "Mandu Plateau",
+        "location": "Dhar to Mandu, MP",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Riding up the Vindhya range plateau dotted with 6th-century Afghan ruins.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                22.59,
+                75.3
+            ],
+            [
+                22.34,
+                75.4
+            ]
+        ]
+    },
+    {
+        "id": "od_chilika_lake_100",
+        "title": "Chilika Coastal Strip",
+        "location": "Puri to Satapada, Odisha",
+        "distanceKm": 0.0,
+        "duration": "0s",
+        "description": "Flat, breezy coastal riding leading to Asia's largest brackish water lagoon.",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=60",
+        "routePolyline": "",
+        "waypoints": [
+            [
+                19.81,
+                85.83
+            ],
+            [
+                19.67,
+                85.43
+            ]
+        ]
+    }
+]
